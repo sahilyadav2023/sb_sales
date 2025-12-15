@@ -4,7 +4,6 @@ import Image from "next/image";
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-export const metadata = { title: "Projects — SteelCraft Fabricators" };
 
 const categories = [
   {
