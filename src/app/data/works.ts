@@ -1,10 +1,4 @@
 export const WORKS = [
-  { src: "/images/work-1.jpg", title: "MS Staircase — Panchawala" },
-  { src: "/images/work-2.jpg", title: "Powder-coated Gate — Mansarovar" },
-  { src: "/images/work-3.jpg", title: "Glass Railing — Malviya Nagar" },
-  { src: "/images/work-4.jpg", title: "Industrial Platform — Sitapura" },
-  { src: "/images/work-5.jpg", title: "Metal Cabinets — Ajmer Road" },
-  { src: "/images/work-6.jpg", title: "Warehouse Racks — VKI" },
     // Steel railing
   { src: "/images/past-works/steel-railing/steel-railing-1.jpg", title: "Steel Railing — Site 1" },
   { src: "/images/past-works/steel-railing/steel-railing-2.jpg", title: "Steel Railing — Site 2" },
